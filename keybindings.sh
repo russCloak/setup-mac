@@ -1,5 +1,5 @@
 DIR=~/Library/KeyBindings
-FILE=$DIR+'/'+DefaultKeyBinding.dict
+FILE=$DIR/DefaultKeyBinding.dict
 
 
 # Make keybindings folder if it doesn't exist
